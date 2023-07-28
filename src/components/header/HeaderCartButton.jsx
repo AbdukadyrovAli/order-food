@@ -1,5 +1,6 @@
 import React from "react";
-import { ReactComponent as BusketIcon } from "../../assets/icons/basket-icon.svg";
+import { BusketIcon } from "../../assets";
+// import { BusketIcon } from "../../assets";
 import { styled } from "styled-components";
 
 export const HeaderCartButton = () => {
