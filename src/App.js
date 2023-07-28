@@ -1,11 +1,13 @@
+import { Header } from "./components/header/Header";
+
 function App() {
   return (
     <div>
-      {/* <Header />
-      <MealsSummary />
-      <Meals />
-      <MealItem />
-      <Button/> */}
+      <Header />
+      {/* <MealsSummary /> */}
+      {/* <Meals /> */}
+      {/* <MealItem /> */}
+      {/* <Button/> */}
     </div>
   );
 }
